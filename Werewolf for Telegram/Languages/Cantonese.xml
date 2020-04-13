@@ -422,6 +422,12 @@
 	</string>
 	<string key="CultistHunter">
 		<value>邪教殺手 💂</value>
+        </string>
+	<string key="Arsonist">
+                <value>縱火者💥</value>
+        </string>
+	<string key="Sandman">
+               <value>催眠者💤</value>
 	</string>
 	<!-- These are for the player list-->
 	<string key="RanAway">
